@@ -1,3 +1,3 @@
-module github.com/ridhwanaw/snippetbox
+module alexedwards.net/snippetbox
 
 go 1.16
